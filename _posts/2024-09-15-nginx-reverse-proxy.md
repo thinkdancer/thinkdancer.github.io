@@ -37,9 +37,5 @@ date:   2024-09-15
 下图是nginx在Web应用中的位置，原文说是Image courtesy from NGINX，但是没有找到nginx的来源：
 
 ```
-![nginx reverse proxy](/assets/img/2024/nginx-reverse-proxy.webp "nginx reverse proxy")
+![nginx reverse proxy](/assets/img/2024/nginx-reverse-proxy.png "nginx reverse proxy")
 ```
-
-
-
- 
